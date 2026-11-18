@@ -1,0 +1,17 @@
+# Build output
+out/
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets - never commit an API key
+.env
+.env.*
+*.env
+
+# OS
+.DS_Store
